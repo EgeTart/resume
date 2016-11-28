@@ -17,11 +17,11 @@
                  
 ### 基本技能
 
-1.能够使用Objective-C、Swift进行iOS应用开发
-2.熟练使用Storyboard，Auto Layout进行界面设计和布局，以及各控件的使用
-3.能够使用NSOperation，GCD进行多线程开发
-4.能够编写简单的C/C++程序，了解python
-5.熟悉基本的算法和数据结构，以及C++ STL的使用
+1. 能够使用Objective-C、Swift进行iOS应用开发
+2. 熟练使用Storyboard，Auto Layout进行界面设计和布局，以及各控件的使用
+3. 能够使用NSOperation，GCD进行多线程开发
+4. 能够编写简单的C/C++程序，了解python
+5. 熟悉基本的算法和数据结构，以及C++ STL的使用
  
 ### 实习经历
 
